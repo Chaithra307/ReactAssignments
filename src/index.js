@@ -1,6 +1,6 @@
 import React from 'react'
 import {createRoot} from "react-dom/client"
 
-import Call from './function based component/Call';
+import App from './function based component/App';
 
-createRoot(document.getElementById('root')).render(<Call/>)
+createRoot(document.getElementById('root')).render(<App/>)
