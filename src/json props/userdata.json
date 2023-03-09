@@ -1,0 +1,142 @@
+[
+    {
+    "movieName" : "vikrant rona" ,
+    "duration" : "2.8 hours" ,
+    "cast": ["sudeep","milana","jaqueline"],
+    "language": "kannada",
+    "poster" : "https://akamaividz2.zee5.com/image/upload/w_504,h_756,c_scale,f_webp,q_auto:eco/resources/0-0-1z5210194/portrait/1920x770dc21179fb962439e91702a6539ea3791.jpg"
+    },
+    {
+    "movieName" : "dhadak" ,
+    "duration" : "2.7 hours" ,
+    "cast": ["janhvi","ishan","ashutosh"],
+    "language": "hindi",
+    "poster" : "https://upload.wikimedia.org/wikipedia/en/f/fb/Dhadak_2018_film.jpg"
+    },
+    {
+    "movieName" : "paddayi" ,
+    "duration" : "2.4 hours" ,
+    "cast": ["gopinath","bindu","mohan"],
+    "language": "tulu",
+    "poster" : "https://upload.wikimedia.org/wikipedia/en/2/2e/Paddayi.jpg"
+    },
+    {
+    "movieName" : "vathi" ,
+    "duration" : "2.7 hours" ,
+    "cast": ["dhanush","samyuktha","saikumar"],
+    "language": "tamil",
+    "poster" : "https://ttncinema.com/static/c1e/client/88252/uploaded/30ceb9d6e195b90740d06d1e08759f28.jpg"
+    },
+    {
+    "movieName" : "temper" ,
+    "duration" : "2.5 hours" ,
+    "cast": ["NTR","kajal","prakash"],
+    "language": "telugu",
+    "poster" : "https://upload.wikimedia.org/wikipedia/en/6/64/Temper_film_poster.jpg"
+    },
+    {
+    "movieName" : "shershaa" ,
+    "duration" : "2.9 hours" ,
+    "cast": ["sidharth","kiara","manmeet"],
+    "language": "hindi",
+    "poster" : "https://upload.wikimedia.org/wikipedia/en/9/91/Shershaah_film_poster.jpg"
+    },
+    {
+    "movieName" : "hridayam" ,
+    "duration" : "2.6 hours" ,
+    "cast": ["kalyani","pranav","darshana"],
+    "language": "malyalam",
+    "poster" : "https://img1.hotstarext.com/image/upload/f_auto,t_vl/sources/r1/cms/prod/5466/1115466-v-6c7716c884a1"
+    },
+    {
+    "movieName" : "girgit" ,
+    "duration" : "2.4hours" ,
+    "cast": ["roopesh","roshan","aravind"],
+    "language": "tulu",
+    "poster" : "https://static.toiimg.com/thumb/msid-70722036,width-219,height-317,imgsize-39616/70722036.jpg"
+    },
+    {
+    "movieName" : "kantara" ,
+    "duration" : "2.8 hours" ,
+    "cast": ["rishab","sapthami","kishore"],
+    "language": "kannada",
+    "poster" : "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202210/Kantara_0_x.jpeg?VersionId=E62LSKwicyycM7A5RuegAAxEHFBXUltC"
+    },
+    {
+    "movieName" : "tunivu" ,
+    "duration" : "2.7 hours" ,
+    "cast": ["ajith","manju","john"],
+    "language": "tamil",
+    "poster" : "https://m.media-amazon.com/images/M/MV5BYTVjOTkwNTYtOTg3YS00NDhjLTk2NTYtMTQzYjljYjhmMjFhXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg"
+    },
+    {
+    "movieName" : "alavaikuntapuram" ,
+    "duration" : "2.8 hours" ,
+    "cast": ["alluarjun","poojahege","tabu"],
+    "language": "telugu",
+    "poster" : "https://static.toiimg.com/photo/73209891.cms?imgsize=41124"
+    },
+    {
+    "movieName" : "salute" ,
+    "duration" : "2.7 hours" ,
+    "cast": ["dq salman","diana","saniya"],
+    "language": "malayalam",
+    "poster" : "https://m.media-amazon.com/images/M/MV5BMGYzMWQ1ODMtNmNhZC00OWUyLTgzN2UtZjgxMDEwYjMyZmI4XkEyXkFqcGdeQXVyMTM1MzAzNzUx._V1_.jpg"
+    },
+    {
+    "movieName" : "pathan" ,
+    "duration" : "2.9 hours" ,
+    "cast": ["sharukhan","deepika","salman"],
+    "language": "hindi",
+    "poster" : "https://upload.wikimedia.org/wikipedia/en/c/c3/Pathaan_film_poster.jpg"
+    },
+    {
+    "movieName" : "googly" ,
+    "duration" : "2.6 hours" ,
+    "cast": ["yash","kriti","ananthnag"],
+    "language": "kannada",
+    "poster" : "https://m.media-amazon.com/images/M/MV5BMTQ5NzQ5MDk3NF5BMl5BanBnXkFtZTgwMzIyMDU4MzE@._V1_.jpg"
+    },
+    {
+    "movieName" : "parava" ,
+    "duration" : "2.8 hours" ,
+    "cast": ["soubin","shane","amal"],
+    "language": "malyalam",
+    "poster" : "https://upload.wikimedia.org/wikipedia/en/6/67/Parava.jpg"
+    },
+    {
+    "movieName" : "eega" ,
+    "duration" : "2.9 hours" ,
+    "cast": ["sudeep","samantha","nani"],
+    "language": "telugu",
+    "poster" : "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/244951f7a45aa197f48bbf3b59e677bb675b3ca9d1478e47d9f9371d66e420f2._RI_V_TTW_.jpg"
+    },
+    {
+    "movieName" : "varisu" ,
+    "duration" : "2.8 hours" ,
+    "cast": ["vijay","rashmika","sangeetha"],
+    "language": "tamil",
+    "poster" : "https://m.media-amazon.com/images/M/MV5BZGIwNWFhOGYtNjFmMi00ZWJjLWE0ZTEtODg3OWE1Y2M0NzVmXkEyXkFqcGdeQXVyMTMxODA4Njgx._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+    "movieName" : "gangubai" ,
+    "duration" : "2.7 hours" ,
+    "cast": ["aliabhat","shantanu","vijay"],
+    "language": "hindi",
+    "poster" : "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/Gangubai_Kathiawadi_film_poster.jpg/220px-Gangubai_Kathiawadi_film_poster.jpg"
+     },
+     {
+    "movieName" : "kranti" ,
+    "duration" : "2.9 hours" ,
+    "cast": ["darshan","rachitha","sadukokila"],
+    "language": "kannada",
+    "poster" : "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/kranti-et00323056-1674117298.jpg"
+    },
+     {
+    "movieName" : "yenna" ,
+    "duration" : "2.6 hours" ,
+    "cast": ["pruthvi","vineeth","shruthi"],
+    "language": "tulu",
+    "poster" : "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/yenna-et00126029-06-02-2020-04-12-24.jpg"
+    }
+]
