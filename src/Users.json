@@ -1,0 +1,92 @@
+[
+{
+    "studentName":"Bhavya",
+    "rollNo":36,
+    "class":"8th std",
+    "subjects":["English","Kannada","Hindi","Maths","Science","Social"],
+    "marks":["86","69","74","52","88","92"],
+    "grade":"B+",
+    "photo":"https://m.media-amazon.com/images/M/MV5BYjE5YmQ0M2ItYzgyOC00N2YyLTlkYzktYjk0ZTM2ZDkxM2I5XkEyXkFqcGdeQXVyNzY3MTExNTA@._V1_.jpg"
+},
+{
+    "studentName":"Prajwal",
+    "rollNo":48,
+    "class":"9th std",
+    "subjects":["English","Kannada","Hindi","Maths","Science","Social"],
+    "marks":["77","56","62","49","78","69"],
+    "grade":"B+",
+    "photo":"https://www.filmibeat.com/img/popcorn/profile_photos/prajwal-devaraj-20190704140918-3447.jpg"
+},
+{
+    "studentName":"Kumar",
+    "rollNo":57,
+    "class":"8th std",
+    "subjects":["English","Kannada","Hindi","Maths","Science","Social"],
+    "marks":["76","69","64","62","87","52"],
+    "grade":"B",
+    "photo":"https://1.bp.blogspot.com/-5y2sXrnOhuk/WWrh4VJ36UI/AAAAAAAAJCY/iGbabQaBSOU50p3HFNjjxZSZ4OOSF9Q-QCK4BGAYYCw/s1600/Tarun%2BChandra%2Bprofile%2Bfamily%252C%2Bbiodata%252C%2Bwiki%2BAge%252C%2BAffairs%252C%2BWife%252C%2BHeight%252C%2BWeight%252C%2BBiography%252C%2BMovies%2Bgo%2Bprofile%2B23.jpg"
+},
+{
+    "studentName":"Divya",
+    "rollNo":33,
+    "class":"7th std",
+    "subjects":["English","Kannada","Hindi","Maths","Science","Social"],
+    "marks":["89","86","84","82","94","92"],
+    "grade":"A+",
+    "photo":"https://static.toiimg.com/photo/msid-64648860/64648860.jpg"
+},
+{
+    "studentName":"Kavya",
+    "rollNo":62,
+    "class":"9th std",
+    "subjects":["English","Kannada","Hindi","Maths","Science","Social"],
+    "marks":["87","68","71","51","82","82"],
+    "grade":"B+",
+    "photo":"https://image.airtel.tv/rakshitha/actor/PORTRAIT/5d7nCuVnYfpxawqMChfWA3uyjo2.jpg"
+},
+{
+    "studentName":"Manjunath",
+    "rollNo":77,
+    "class":"8th std",
+    "subjects":["English","Kannada","Hindi","Maths","Science","Social"],
+    "marks":["96","89","94","92","98","92"],
+    "grade":"A+",
+    "photo":"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202210/darshan-one_one.jpg?VersionId=WMmeTHLUnoVLbEEoBMRvVQ6y4M_qH5DA"
+},
+{
+    "studentName":"Priyanka",
+    "rollNo":49,
+    "class":"7th std",
+    "subjects":["English","Kannada","Hindi","Maths","Science","Social"],
+    "marks":["81","64","71","54","82","90"],
+    "grade":"B",
+    "photo":"https://static.theprint.in/wp-content/uploads/2018/11/Divya.jpg"
+},
+{
+    "studentName":"Sneha",
+    "rollNo":51,
+    "class":"9th std",
+    "subjects":["English","Kannada","Hindi","Maths","Science","Social"],
+    "marks":["84","60","75","59","83","91"],
+    "grade":"B",
+    "photo":"https://www.filmibeat.com/wimg/desktop/2022/01/amrutha-iyengar_1.jpg"
+},
+{
+    "studentName":"Harsha",
+    "rollNo":97,
+    "class":"8th std",
+    "subjects":["English","Kannada","Hindi","Maths","Science","Social"],
+    "marks":["86","89","84","22","88","83"],
+    "grade":"B+",
+    "photo":"https://static-ai.asianetnews.com/images/01cwxg2jy1ddbmvxccb299fb9c/Kiccha-sudeep.jpg"
+},
+{
+    "studentName":"Manjula",
+    "rollNo":63,
+    "class":"9th std",
+    "subjects":["English","Kannada","Hindi","Maths","Science","Social"],
+    "marks":["71","79","74","72","78","70"],
+    "grade":"B",
+    "photo":"https://m.media-amazon.com/images/M/MV5BZGIzYWIwYTMtYjI0OC00ZWIxLTg1YjMtODU2NDY4YWJmY2JlXkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_.jpg"
+}
+]
