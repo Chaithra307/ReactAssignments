@@ -1,4 +1,6 @@
 import React from 'react'
 import {createRoot} from "react-dom/client"
-import App10 from './App10'
-createRoot(document.getElementById('root')).render(<App10/>)
+import App17 from './App17';
+import './global.css'
+
+createRoot(document.getElementById('root')).render(<App17/>)

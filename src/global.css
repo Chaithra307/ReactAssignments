@@ -1,18 +1,26 @@
-.movieBlock{
-    border: 2px solid yellowgreen;
-    width: 350px;
+.btnGroup > button{
+    background-color: plum;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 15px;
+    margin: 4px 2px;
+    opacity: 0.6;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    
+}
+.btnGroup:hover{
+    opacity: 1;
+}
+.mainBlock{
     display: flex;
-    flex-direction: column;
-    justify-content: center;
     align-items: center;
-}
-
-img{
-    width: 200px;
-    height: 200px;
-}
-
-.FilmBlock{
-    display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
+    flex-direction: column;
+    top: 20px;
+    height: 100vh;
 }
