@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "coursename": "mern stack ",
+      "authorname": "chaithra",
+      "id": 1
+    },
+    {
+      "coursename": "java full stack",
+      "authorname": "manjunath",
+      "id": 2
+    },
+    {
+      "coursename": "devops",
+      "authorname": "sudeep",
+      "id": 3
+    },
+    {
+      "coursename": "devops",
+      "authorname": "sudeep",
+      "id": 4
+    },
+    {
+      "coursename": "data structure",
+      "authorname": "darshan",
+      "id": 5
+    },
+    {
+      "coursename": "data structure",
+      "authorname": "darshan",
+      "id": 6
+    }
+  ]
+}
