@@ -1,30 +1,46 @@
 import React,{useState} from 'react'
 import axiosInstance from '../helpers/axiosInstance';
+import { useNavigate } from 'react-router-dom';
 const CreatePost = () => {
-  let [coursename,setCoursename]=useState("")
-  let [authorname,setAuthorname]=useState("")
-  let handleSubmit=async (e)=>{
-    e.preventDefault()
-      try{
-         let payload={coursename,authorname}
-         let data=await axiosInstance.post("/posts",payload)
+    let[coursename , setCoursename] = useState("")
+    let[authorname , setAuthorname] = useState("")
+    let navigate = useNavigate()
+
+    let handleSubmit = async (e)=>{
+       e.preventDefault()
+    try{
+        let payload={
+            coursename,
+            authorname
+           }
+           let data =  await axiosInstance.post("/posts",payload)
+          navigate('/viewposts')
     }
     catch{
-     console.log("unable to connect to server");
+        console.log("UNABLE TO CONNECT TO SERVER");
     }
-  }
+
+    }
+
   return (
     <div>
-      <form action="" onSubmit={handleSubmit}>
-        <label htmlFor="CourseName">CourseName</label>
-        <input type="text" id='CourseName' onChange={(e)=>{
-           setCoursename(e.target.value)}}/> <br/> <br/>
-           <label htmlFor="AuthorName">AuthorName</label>
-        <input type="text" id='AuthorName' onChange={(e)=>{
-           setAuthorname(e.target.value)}}/> <br/> <br/>
-           <button>SUBMIT</button>
-      </form>
+        <form action="" onSubmit={handleSubmit}>
+           <fieldset>
+                <legend>CREATE POST</legend>
+                <label htmlFor="CourseName">CourseName</label>
+            <input type="text" id="CourseName" onChange={(e)=>{
+                setCoursename(e.target.value)
+            }}/> <br /> <br />
+            <label htmlFor="AuthorName">AuthorName</label>
+            <input type="text" id="AuthorName" onChange={(e)=>{
+                setAuthorname(e.target.value)
+            }} /> <br />
+            <button>SUBMIT</button>
+
+           </fieldset>
+        </form>
     </div>
   )
 }
+
 export default CreatePost

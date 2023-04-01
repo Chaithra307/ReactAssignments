@@ -1,34 +1,24 @@
 {
   "posts": [
     {
-      "coursename": "mern stack ",
-      "authorname": "chaithra",
+      "coursename": "SQL",
+      "authorname": "Chaithra",
       "id": 1
     },
     {
-      "coursename": "java full stack",
-      "authorname": "manjunath",
+      "coursename": "React",
+      "authorname": "Manjunath",
       "id": 2
     },
     {
-      "coursename": "devops",
-      "authorname": "sudeep",
-      "id": 3
-    },
-    {
-      "coursename": "devops",
-      "authorname": "sudeep",
+      "coursename": "Data-Structure",
+      "authorname": "Darshan",
       "id": 4
     },
     {
-      "coursename": "data structure",
-      "authorname": "darshan",
+      "coursename": "JDBC",
+      "authorname": "Sridhar",
       "id": 5
-    },
-    {
-      "coursename": "data structure",
-      "authorname": "darshan",
-      "id": 6
     }
   ]
 }
